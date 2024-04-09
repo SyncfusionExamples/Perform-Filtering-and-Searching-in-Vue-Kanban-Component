@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to perform filtering and searching in the [Vue Kanban]( https://www.syncfusion.com/vue-components/vue-kanban-board?utm_source=github&utm_medium=listing&utm_campaign=vue-kanban-templates-github-samples) component. It includes a code snippet for filtering and searching data based on a particular field in the Kanban board.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/vue/kanban-board?title=perform-filtering-and-searching-in-vue-kanban-component
 
 Documentation for the Vue Kanban component: https://ej2.syncfusion.com/vue/documentation/kanban/how-to/filter-cards 
 
